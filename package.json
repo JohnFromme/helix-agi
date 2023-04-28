@@ -1,0 +1,37 @@
+{
+  "name": "helix-agi",
+  "version": "0.1.0",
+  "description": "Helix AGI is an AI-powered task management system built using Node & OpenAI.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnFromme/helix-agi.git"
+  },
+  "author": "John Fromme <support@johnfromme.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JohnFromme/helix-agi/issues"
+  },
+  "homepage": "https://github.com/JohnFromme/helix-agi#readme",
+  "keywords": [
+    "ai",
+    "agi",
+    "ai powered",
+    "artificial intelligence",
+    "artifical general inteligence",
+    "openai",
+    "agent",
+    "task management",
+    "task management system",
+    "chatgpt",
+    "nodejs",
+    "helix agi",
+    "helix"
+  ],
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
